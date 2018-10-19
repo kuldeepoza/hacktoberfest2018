@@ -39,3 +39,5 @@ Kashyap Merai | Web Team Lead | Ahmedabad, India | [Profile](http://kamerk22.git
 - Pocholo Recto | Web developer | Philippines | [Profile](https://github.com/cholorecto)
 - Kerstine Rodilla | Quality Assurance | Philippines | [Profile](https://github.com/kerstinerodilla)
 - Sujal Patel | Web Team Lead | Ahmedabad, India | [Profile](https://github.com/sujalpatel2209)
+- Chirag Patil | Student | Rajkot, India | [Profile](https://github.com/chiragpatil)
+
