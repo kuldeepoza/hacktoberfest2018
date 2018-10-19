@@ -40,3 +40,5 @@ Kashyap Merai | Web Team Lead | Ahmedabad, India | [Profile](http://kamerk22.git
 - Kerstine Rodilla | Quality Assurance | Philippines | [Profile](https://github.com/kerstinerodilla)
 - Sujal Patel | Web Team Lead | Ahmedabad, India | [Profile](https://github.com/sujalpatel2209)
 - Mayur Pitroda | Student | Rajkot, India | [Profile](https://github.com/mayur31031996)
+- Shubham Sachania | Student | Ahmedabad, India | [Profile](https://github.com/ShubhamSachania)
+- Chirag Patil | Student | Rajkot, India | [Profile](https://github.com/chiragpatil)
